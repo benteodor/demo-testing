@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-# demo-testing
-
 # demo-testing
 
 # Something in local machine
@@ -15,7 +11,5 @@ Make changes to the remote repository
 Make changes on the local repository and then push it to the remote repository
 Solve merge conflict
 Update the readme
-
-> > > > > > > 0405eb08bf8c83723898c958345b28b5d9918d3c
 
 Hello there!
