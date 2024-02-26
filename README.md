@@ -13,7 +13,6 @@ Solve merge conflict,
 Update the readme .
 
 
-Hello there! I am in the Main branch.
 
 
 # Hi there
