@@ -12,6 +12,6 @@ Make changes on the local repository and then push it to the remote repository,
 Solve merge conflict,
 Update the readme .
 
-Hello there!
+Hello there! I am in the Main branch.
 
 # Hi there
